@@ -7,7 +7,7 @@ using System.Text;
 /*
     
 DESCRIPTION:
-    ModifiableFloat created by Lucas Sarkadi
+    ModifiableFloat created by Lucas Sarkadi.
 
     Creative Commons Zero v1.0 Universal licence, 
     meaning it's free to use in any project with no need to ask permission or credits the author.
@@ -32,7 +32,7 @@ USAGE:
     Reapplying the same exact modifier won't recompute the value. You can therefore spam the same 
     modifier every frame.
 
-    You can cast the ModfiableFloat into an integer using ".Round", ".Floor" and ".Ceil"
+    You can cast the ModifiableFloat into an integer using ".Round", ".Floor" and ".Ceil".
 
     You can debug the ModifiableFloat using:
         ".DebugString()"        which will return a string describing how the value was computed
