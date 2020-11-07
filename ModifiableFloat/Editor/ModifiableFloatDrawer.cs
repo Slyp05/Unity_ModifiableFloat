@@ -5,7 +5,7 @@ using UnityEditor;
 
 /*
     
-    ModifiableFloat created by Lucas Sarkadi
+    ModifiableFloat created by Lucas Sarkadi.
 
     Creative Commons Zero v1.0 Universal licence, 
     meaning it's free to use in any project with no need to ask permission or credits the author.
