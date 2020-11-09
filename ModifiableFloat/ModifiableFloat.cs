@@ -24,7 +24,7 @@ USAGE:
     If needed you can use ".Base" and ".Value".
 
     Computed value is calculated from modifier which are linked to an object instance (+ a string, 
-    usefull if you have multiple modifier on a single instance).
+    useful if you have multiple modifier on a single instance).
     You can choose the order of application of modifier, for two modifier with the same order the
     calculation will be: 
     Set then Add/Substract then Multiply/Divide then Modulo then Min/Max and then Custom functions.
