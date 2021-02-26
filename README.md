@@ -1,4 +1,4 @@
-## THIS IS SOON TO BE AN ASSET ON THE UNITY STORE, THIS IS A VERY OUTDATED PROJECT
+## This is very outdated and soon to be updated as an asset on the Unity asset store
 
 # Unity_ModifiableFloat
 Unity custom class and custom drawer for making a float concurrently modifiable by multiple classes at once.
