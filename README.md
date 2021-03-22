@@ -1,4 +1,4 @@
-### This is a now an asset on the Unity store ! Check out this page for more informations:
+### This is a now an asset on the Unity store ! Link and informations here:
 ### https://justetools.com/concurrent-value/
 
 # Unity_ModifiableFloat
