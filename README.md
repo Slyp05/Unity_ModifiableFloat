@@ -1,4 +1,5 @@
-## This is very outdated and soon to be updated as an asset on the Unity asset store
+## This is a now an asset on the Unity store ! Check out this page for more informations:
+https://justetools.com/concurrent-value/
 
 # Unity_ModifiableFloat
 Unity custom class and custom drawer for making a float concurrently modifiable by multiple classes at once.
